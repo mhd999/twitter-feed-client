@@ -1,0 +1,15 @@
+exports[`<Tweet /> renders children 1`] = `
+<li
+  style={
+    Object {
+      "background": "gray",
+      "margin": "5px",
+    }
+  }>
+  <span>
+     
+    RT @wwf_uk: 70% of Norway’s wolf population could be hunted &amp; killed this winter. Help @WWFNorge #SaveOurWolves:… 
+     
+  </span>
+</li>
+`;
